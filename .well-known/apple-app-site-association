@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "RFMB26L94Z.org.reactjs.native.example.DeepLinkTut",
+        "appID": "RFMB26L94Z.org.reactjs.native.example.DeepLinkTutorial",
         "paths": [
           "*"
         ]
